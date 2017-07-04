@@ -13,4 +13,3 @@ MAKE := make
 AR := xiar -qoffload-build
 
 #AR := ar
-
